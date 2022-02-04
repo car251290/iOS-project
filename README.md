@@ -27,7 +27,7 @@ Using this app, users can easily make a decision about the favorite visit it and
 6- The feedback I add my personal pages in the app so the user can tell me, how was it experience with Food app, as well as it has my personal pages so they can see in what I am working.
 
 # Language 
-Swift 
+* Swift 
 
 # Requirements
 * Xcode 
