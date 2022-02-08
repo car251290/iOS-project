@@ -1,7 +1,5 @@
-//
 //  Restaurant.swift
 //  Food
-//
 //  Created by Javier Carreno.
 
 import Foundation
