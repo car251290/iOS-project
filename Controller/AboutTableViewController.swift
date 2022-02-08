@@ -1,10 +1,8 @@
-//
+
 //  AboutTableViewController.swift
 //  Food
-//
 //  Created by Javier Carreno.
-//  Copyright © 2018 Javier Carreno. All rights reserved.
-//
+
 
 import UIKit
 import SafariServices
