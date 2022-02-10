@@ -28,8 +28,6 @@ Using this app, users can easily make a decision about the favorite visit it and
 
 # Language 
 * Swift 
-
-# Requirements
 * Xcode 
 * iOS
 * Macbook
